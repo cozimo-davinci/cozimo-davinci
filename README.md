@@ -70,7 +70,7 @@ Backend system to manage product inventories with Spring Boot and RESTful endpoi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <picture>
+  <picture style={{margin-bottom: 1em;}}>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=cozimo-davinci&show_icons=true&theme=light" 
       media="(prefers-color-scheme: light)" />
