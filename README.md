@@ -54,6 +54,23 @@
 
 ---
 
+## 🚀 Tech Stack Badges
+
+![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native_Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![Apollo Server](https://img.shields.io/badge/Apollo_Server-311C87?logo=apollographql&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+
+---
+
 ## 🧩 Featured Projects
 
 ### 📱 [Progex – Job Application Tracking App](https://github.com/cozimo-davinci/Progex)
