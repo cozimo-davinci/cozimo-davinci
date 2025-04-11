@@ -24,25 +24,32 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages** 
+
 `JavaScript` `TypeScript` `Java` `Python` 
 
 **Frontend**  
+
 `React.js` `React Native (Expo)` `Tailwind CSS` `Angular` `Next.js` `HTML` `CSS`
 
 **Backend**  
+
 `Node.js` `Express.js` `Java Spring Boot` `REST APIs` `GraphQL` `Apollo Server`
 
 **Databases**  
+
 `MongoDB` `Supabase PostgreSQL` `Firebase`
 
 **Data Structures**
+
 `Arrays` `Linked Lists` `Trees` `Graphs`
 
 **Algoritms**
+
 `Binary Search` `Selection Sort` `Insertion Sort` 
 
 **Tools & Platforms**  
+
 `Git` `VSCode` `Postman` `Docker` `Firebase` `Figma` `Supabase` `GitHub Actions` 
 
 ---
