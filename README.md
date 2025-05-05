@@ -2,12 +2,12 @@
 
 <h1 align="center">Hey there, I'm Teimur aka Cozimo Davinci 👋</h1>
 <p align="center">
-  <i>Full Stack Developer | React.js • Node.js • Spring Boot • GraphQL • Next.js</i><br>
+  <i>Full Stack Developer | React.js • Node.js • Spring Boot • ASP .NET • GraphQL • Next.js</i><br>
   <i>Clean Code. Scalable Systems. Thoughtful Design.</i>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,graphql,postgres,mongodb,docker,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,graphql,postgres,mongodb,docker,figma,dotnet,c#" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 **Languages** 
 
-`JavaScript` `TypeScript` `Java` `Python` 
+`JavaScript` `TypeScript` `Java` `Python` `C#`
 
 **Frontend**  
 
@@ -34,11 +34,11 @@
 
 **Backend**  
 
-`Node.js` `Express.js` `Java Spring Boot` `REST APIs` `GraphQL` `Apollo Server`
+`Node.js` `Express.js` `Java Spring Boot` `REST APIs` `GraphQL` `Apollo Server` `ASP.NET`
 
 **Databases**  
 
-`MongoDB` `Supabase PostgreSQL` `Firebase`
+`MongoDB` `Supabase PostgreSQL` `Firebase` `SQL Server`
 
 **Data Structures**
 
@@ -50,7 +50,7 @@
 
 **Tools & Platforms**  
 
-`Git` `VSCode` `Postman` `Docker` `Firebase` `Figma` `Supabase` `GitHub Actions` 
+`Git` `VSCode` `Postman` `Docker` `Firebase` `Figma` `Supabase` `GitHub Actions` `Visual Studio`
 
 ---
 
@@ -68,6 +68,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-178600?logo=csharp&logoColor=white&style=for-the-badge)
+
 
 ---
 
