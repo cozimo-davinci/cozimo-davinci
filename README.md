@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎯 Passionate about building robust backends and seamless frontends  
-- 🧠 Currently learning GraphQL, JUnit & Jetpack Compose (Kotlin)  
+- 🧠 Currently learning GraphQL and mastering ASP.NET  
 - 🛠️ I enjoy solving real-world problems with technology  
 - ✨ Mix of creative frontend and rock-solid backend architecture  
 - 📍 Based in Canada 🇨🇦
