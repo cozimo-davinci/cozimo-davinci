@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Teimur aka Cozimo Davinci 👋</h1>
 <p align="center">
-  <i>Full Stack Developer | React.js • Node.js • Spring Boot • ASP .NET • GraphQL • Next.js</i><br>
+  <i>Full Stack Developer | React.js • Node.js • Spring Boot • ASP.NET • GraphQL • Next.js</i><br>
   <i>Clean Code. Scalable Systems. Thoughtful Design.</i>
 </p>
 
