@@ -107,7 +107,7 @@ Backend system to manage product inventories with Spring Boot and RESTful endpoi
 
 ## 📫 Let’s Connect!
 
-- 🌐 [Portfolio](https://teimur-dev.onrender.com/)
+- 🌐 [Portfolio](https://teimur-dev.onrender.com/](https://teimur-dev.netlify.app )
 - 💼 [LinkedIn](https://www.linkedin.com/in/teimur-terchyyev-83195b206/)
 - ✉️ Email: teimur.terchiev@gmail.com
 
